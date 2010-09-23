@@ -1,0 +1,10 @@
+chrome_bin: /usr/bin/google-chrome
+img_convert_bin: convert
+img_crush_bin: optipng
+src_dir: src
+http_root: http://localhost/drhac/
+logo:
+- src: logo_raw.png
+  out: logo_128.png
+- src: logo_off_raw.png
+  out: logo_off.png
